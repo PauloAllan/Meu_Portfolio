@@ -129,6 +129,12 @@ button:hover {
     background-color: #2668db;
 }
 
+.card button{
+    background-color: #2668db;
+    margin-left: 200px;
+    width: 12vh;
+}
+
 .image-wrapper {
     display: flex;
     margin-top: 5vh;
